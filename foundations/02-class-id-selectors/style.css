@@ -1,0 +1,15 @@
+.redback{
+    background-color: rgb(241, 45, 127); font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#specialone{
+    color: rgb(0, 0, 255); font-size: 36px;
+}
+
+#specialtwo{
+    background-color: rgb(100, 255, 100); font-size: 24px; font-weight: bold;
+}
